@@ -1,3 +1,3 @@
 # Jasmine-Testing
 
-Unit testing existing loan calculator
+Unit testing existing loan calculator exercise
