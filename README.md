@@ -1,3 +1,3 @@
 # Jasmine-Testing
 
-Used Jasmine to unit test an existing loan calculator. 
+Unit testing existing loan calculator
